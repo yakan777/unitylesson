@@ -55,6 +55,9 @@
   <ItemGroup>
      <Compile Include="Assets\AzarashiBaseAssets\CameraEffect\ClashCamera.cs" />
      <Compile Include="Assets\AzarashiBaseAssets\CameraEffect\FlashEffect.cs" />
+     <Compile Include="Assets\Scripts\AzarashiController.cs" />
+     <Compile Include="Assets\Scripts\Block.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\ScrollObject.cs" />
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>C:/Users/0314AM/Desktop/unitylesson/FlappyAzarashi/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
