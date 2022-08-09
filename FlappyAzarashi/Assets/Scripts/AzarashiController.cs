@@ -66,6 +66,8 @@ public class AzarashiController : MonoBehaviour
     {
         if(isDead)return;
 
+        Camera.main.SendMessage("Clash");
+
         isDead =true;
 
     }

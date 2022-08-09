@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\NejikoController.cs" />
      <Compile Include="Assets\Scripts\SimpleFollow.cs" />
      <Compile Include="Assets\Scripts\StageGenerator.cs" />
+     <Compile Include="Assets\Scripts\TimeSample.cs" />
      <Compile Include="Assets\Scripts\TitleController.cs" />
      <None Include="Assets\NejikoBaseAssets\LICENSE.txt" />
  <Reference Include="UnityEngine.Purchasing">
